@@ -1,0 +1,1000 @@
+1	Korean	Cheap	Financial District	2:00 PM - 10:00 PM	2	FALSE
+2	Mexican	Expensive	Gramercy	2:00 PM - 10:00 PM	4	TRUE
+3	Chinese	Medium	Harlem	2:00 PM - 10:00 PM	3	FALSE
+4	Pizza	Cheap	Chelsea	2:00 PM - 10:00 PM	5	TRUE
+5	Italian	Expensive	Greenwich Village	9:00 AM - 5:00 PM	3	FALSE
+6	Korean	Medium	Herald Square	2:00 PM - 10:00 PM	3	TRUE
+7	Pizza	Cheap	Herald Square	9:00 AM - 5:00 PM	3	TRUE
+8	Mexican	Medium	Lower East Side	2:00 PM - 10:00 PM	2	FALSE
+9	Italian	Cheap	SoHo	9:00 AM - 5:00 PM	1	TRUE
+10	Pizza	Expensive	Flatiron	9:00 AM - 5:00 PM	3	TRUE
+11	Pizza	Cheap	West Village	9:00 AM - 5:00 PM	5	TRUE
+12	Burgers	Expensive	West Village	2:00 PM - 10:00 PM	4	TRUE
+13	Desserts	Expensive	Gramercy	9:00 AM - 5:00 PM	2	FALSE
+14	Sushi	Expensive	Battery Park City	9:00 AM - 5:00 PM	3	FALSE
+15	Korean	Cheap	Lower East Side	9:00 AM - 5:00 PM	2	TRUE
+16	Chinese	Medium	Washington Heights	2:00 PM - 10:00 PM	5	TRUE
+17	Burgers	Expensive	Washington Heights	9:00 AM - 5:00 PM	3	FALSE
+18	Chinese	Medium	Gramercy	9:00 AM - 5:00 PM	1	FALSE
+19	Mexican	Expensive	Inwood	2:00 PM - 10:00 PM	1	FALSE
+20	Thai	Cheap	Battery Park City	2:00 PM - 10:00 PM	5	TRUE
+21	Mexican	Expensive	Flatiron	9:00 AM - 5:00 PM	1	FALSE
+22	Chinese	Expensive	Lower East Side	2:00 PM - 10:00 PM	1	FALSE
+23	Italian	Medium	Wall Street	9:00 AM - 5:00 PM	1	TRUE
+24	Sushi	Expensive	Flatiron	9:00 AM - 5:00 PM	3	TRUE
+25	Pizza	Cheap	Upper East Side	9:00 AM - 5:00 PM	5	TRUE
+26	Korean	Expensive	Times Square	9:00 AM - 5:00 PM	3	FALSE
+27	Mexican	Expensive	Upper East Side	2:00 PM - 10:00 PM	5	FALSE
+28	Italian	Cheap	Lower East Side	2:00 PM - 10:00 PM	4	FALSE
+29	Korean	Cheap	NoHo	2:00 PM - 10:00 PM	4	TRUE
+30	Italian	Expensive	Upper West Side	2:00 PM - 10:00 PM	4	TRUE
+31	Desserts	Medium	Battery Park City	2:00 PM - 10:00 PM	3	TRUE
+32	Mexican	Cheap	East Harlem	2:00 PM - 10:00 PM	2	FALSE
+33	Sushi	Cheap	Flatiron	9:00 AM - 5:00 PM	5	TRUE
+34	Desserts	Expensive	Herald Square	2:00 PM - 10:00 PM	1	TRUE
+35	Mexican	Cheap	Hudson Square	2:00 PM - 10:00 PM	5	FALSE
+36	Mexican	Expensive	West Village	2:00 PM - 10:00 PM	2	TRUE
+37	Sushi	Medium	NoHo	9:00 AM - 5:00 PM	5	TRUE
+38	Desserts	Medium	Financial District	2:00 PM - 10:00 PM	3	TRUE
+39	Indian	Medium	Flatiron	2:00 PM - 10:00 PM	5	TRUE
+40	Thai	Expensive	Flatiron	2:00 PM - 10:00 PM	3	FALSE
+41	Burgers	Medium	Washington Heights	2:00 PM - 10:00 PM	5	TRUE
+42	Italian	Medium	Greenwich Village	9:00 AM - 5:00 PM	1	FALSE
+43	Thai	Medium	Washington Heights	2:00 PM - 10:00 PM	2	FALSE
+44	Korean	Expensive	Herald Square	9:00 AM - 5:00 PM	5	FALSE
+45	Thai	Expensive	Hudson Square	9:00 AM - 5:00 PM	3	FALSE
+46	Mexican	Expensive	Harlem	9:00 AM - 5:00 PM	4	FALSE
+47	Sushi	Expensive	Gramercy	9:00 AM - 5:00 PM	5	TRUE
+48	Sushi	Cheap	Herald Square	2:00 PM - 10:00 PM	5	TRUE
+49	Indian	Cheap	NoHo	2:00 PM - 10:00 PM	5	TRUE
+50	Korean	Medium	Greenwich Village	9:00 AM - 5:00 PM	2	TRUE
+51	Burgers	Medium	Union Square	9:00 AM - 5:00 PM	1	TRUE
+52	Sushi	Expensive	Inwood	9:00 AM - 5:00 PM	4	TRUE
+53	Italian	Expensive	Hudson Square	2:00 PM - 10:00 PM	3	TRUE
+54	Chinese	Cheap	West Village	2:00 PM - 10:00 PM	1	FALSE
+55	Burgers	Medium	Battery Park City	9:00 AM - 5:00 PM	5	FALSE
+56	Thai	Medium	Chelsea	2:00 PM - 10:00 PM	2	FALSE
+57	Pizza	Expensive	Chelsea	2:00 PM - 10:00 PM	4	FALSE
+58	Indian	Expensive	Inwood	9:00 AM - 5:00 PM	4	FALSE
+59	Desserts	Medium	SoHo	2:00 PM - 10:00 PM	5	FALSE
+60	Indian	Expensive	Financial District	9:00 AM - 5:00 PM	3	FALSE
+61	Mexican	Expensive	Midtown	2:00 PM - 10:00 PM	1	FALSE
+62	Chinese	Medium	Upper West Side	9:00 AM - 5:00 PM	4	TRUE
+63	Burgers	Cheap	West Village	2:00 PM - 10:00 PM	1	FALSE
+64	Mexican	Cheap	Upper East Side	9:00 AM - 5:00 PM	2	TRUE
+65	Desserts	Medium	Flatiron	2:00 PM - 10:00 PM	1	TRUE
+66	Chinese	Medium	Chelsea	2:00 PM - 10:00 PM	3	FALSE
+67	Indian	Medium	Upper West Side	2:00 PM - 10:00 PM	2	FALSE
+68	Desserts	Expensive	Upper West Side	9:00 AM - 5:00 PM	4	TRUE
+69	Chinese	Cheap	Greenwich Village	2:00 PM - 10:00 PM	4	FALSE
+70	Sushi	Cheap	NoHo	2:00 PM - 10:00 PM	3	TRUE
+71	Korean	Expensive	Times Square	9:00 AM - 5:00 PM	2	FALSE
+72	Korean	Expensive	Upper East Side	9:00 AM - 5:00 PM	4	TRUE
+73	Korean	Expensive	Midtown	2:00 PM - 10:00 PM	2	TRUE
+74	Burgers	Medium	Tribeca	9:00 AM - 5:00 PM	5	TRUE
+75	Indian	Expensive	East Harlem	9:00 AM - 5:00 PM	1	TRUE
+76	Korean	Expensive	NoHo	2:00 PM - 10:00 PM	3	FALSE
+77	Indian	Expensive	Hudson Square	2:00 PM - 10:00 PM	4	TRUE
+78	Korean	Cheap	Chinatown	9:00 AM - 5:00 PM	1	FALSE
+79	Pizza	Cheap	Chinatown	9:00 AM - 5:00 PM	3	FALSE
+80	Desserts	Expensive	SoHo	2:00 PM - 10:00 PM	4	FALSE
+81	Burgers	Cheap	Lower East Side	9:00 AM - 5:00 PM	1	TRUE
+82	Mexican	Cheap	Hudson Square	9:00 AM - 5:00 PM	2	TRUE
+83	Indian	Cheap	Chelsea	2:00 PM - 10:00 PM	4	FALSE
+84	Sushi	Cheap	Midtown	9:00 AM - 5:00 PM	4	FALSE
+85	Sushi	Expensive	Times Square	2:00 PM - 10:00 PM	4	TRUE
+86	Italian	Expensive	Upper East Side	9:00 AM - 5:00 PM	1	FALSE
+87	Korean	Expensive	Times Square	9:00 AM - 5:00 PM	3	FALSE
+88	Desserts	Cheap	West Village	9:00 AM - 5:00 PM	4	TRUE
+89	Thai	Expensive	SoHo	2:00 PM - 10:00 PM	2	TRUE
+90	Italian	Expensive	Upper East Side	9:00 AM - 5:00 PM	3	FALSE
+91	Burgers	Medium	Financial District	9:00 AM - 5:00 PM	4	FALSE
+92	Thai	Expensive	Washington Heights	2:00 PM - 10:00 PM	2	FALSE
+93	Desserts	Medium	Tribeca	9:00 AM - 5:00 PM	2	FALSE
+94	Desserts	Expensive	Wall Street	2:00 PM - 10:00 PM	2	FALSE
+95	Pizza	Expensive	Wall Street	2:00 PM - 10:00 PM	2	TRUE
+96	Italian	Expensive	Union Square	9:00 AM - 5:00 PM	1	TRUE
+97	Indian	Medium	Upper West Side	2:00 PM - 10:00 PM	1	TRUE
+98	Mexican	Cheap	Wall Street	2:00 PM - 10:00 PM	1	FALSE
+99	Italian	Expensive	Midtown	2:00 PM - 10:00 PM	1	TRUE
+100	Chinese	Expensive	Tribeca	2:00 PM - 10:00 PM	5	TRUE
+101	Burgers	Cheap	SoHo	2:00 PM - 10:00 PM	5	FALSE
+102	Indian	Expensive	Union Square	9:00 AM - 5:00 PM	5	FALSE
+103	Thai	Expensive	Herald Square	9:00 AM - 5:00 PM	3	TRUE
+104	Mexican	Expensive	Washington Heights	2:00 PM - 10:00 PM	1	TRUE
+105	Thai	Cheap	Lower East Side	9:00 AM - 5:00 PM	3	TRUE
+106	Sushi	Cheap	Tribeca	9:00 AM - 5:00 PM	2	TRUE
+107	Indian	Medium	Greenwich Village	9:00 AM - 5:00 PM	2	TRUE
+108	Sushi	Medium	Chelsea	2:00 PM - 10:00 PM	2	FALSE
+109	Burgers	Medium	East Harlem	9:00 AM - 5:00 PM	3	FALSE
+110	Indian	Expensive	Inwood	2:00 PM - 10:00 PM	4	TRUE
+111	Italian	Expensive	Upper East Side	2:00 PM - 10:00 PM	2	TRUE
+112	Thai	Medium	Union Square	2:00 PM - 10:00 PM	3	TRUE
+113	Indian	Medium	Union Square	2:00 PM - 10:00 PM	3	TRUE
+114	Indian	Expensive	Upper East Side	9:00 AM - 5:00 PM	1	TRUE
+115	Chinese	Medium	Greenwich Village	9:00 AM - 5:00 PM	4	FALSE
+116	Indian	Medium	Chinatown	9:00 AM - 5:00 PM	2	TRUE
+117	Mexican	Cheap	Financial District	2:00 PM - 10:00 PM	3	FALSE
+118	Desserts	Medium	West Village	2:00 PM - 10:00 PM	4	FALSE
+119	Desserts	Cheap	SoHo	2:00 PM - 10:00 PM	3	FALSE
+120	Pizza	Expensive	Midtown	2:00 PM - 10:00 PM	2	TRUE
+121	Desserts	Medium	Upper East Side	9:00 AM - 5:00 PM	4	FALSE
+122	Mexican	Cheap	SoHo	2:00 PM - 10:00 PM	3	FALSE
+123	Indian	Medium	East Harlem	9:00 AM - 5:00 PM	3	FALSE
+124	Thai	Medium	Harlem	2:00 PM - 10:00 PM	4	TRUE
+125	Mexican	Cheap	Herald Square	9:00 AM - 5:00 PM	4	TRUE
+126	Sushi	Cheap	Midtown	2:00 PM - 10:00 PM	5	TRUE
+127	Thai	Cheap	Upper West Side	2:00 PM - 10:00 PM	3	FALSE
+128	Burgers	Cheap	Upper East Side	2:00 PM - 10:00 PM	2	TRUE
+129	Burgers	Expensive	Upper East Side	9:00 AM - 5:00 PM	5	FALSE
+130	Desserts	Expensive	Upper East Side	2:00 PM - 10:00 PM	1	FALSE
+131	Indian	Cheap	SoHo	2:00 PM - 10:00 PM	3	FALSE
+132	Italian	Expensive	Chelsea	9:00 AM - 5:00 PM	4	TRUE
+133	Thai	Medium	Upper East Side	2:00 PM - 10:00 PM	4	FALSE
+134	Chinese	Cheap	Financial District	2:00 PM - 10:00 PM	1	TRUE
+135	Pizza	Expensive	Upper West Side	9:00 AM - 5:00 PM	2	FALSE
+136	Korean	Cheap	Gramercy	9:00 AM - 5:00 PM	2	TRUE
+137	Burgers	Medium	Wall Street	9:00 AM - 5:00 PM	4	FALSE
+138	Korean	Medium	Union Square	2:00 PM - 10:00 PM	2	FALSE
+139	Desserts	Medium	Chelsea	9:00 AM - 5:00 PM	3	TRUE
+140	Korean	Medium	Gramercy	9:00 AM - 5:00 PM	1	TRUE
+141	Thai	Medium	Chinatown	2:00 PM - 10:00 PM	1	FALSE
+142	Chinese	Expensive	Lower East Side	2:00 PM - 10:00 PM	2	TRUE
+143	Mexican	Medium	Washington Heights	2:00 PM - 10:00 PM	5	FALSE
+144	Sushi	Cheap	NoHo	9:00 AM - 5:00 PM	5	TRUE
+145	Indian	Medium	Harlem	2:00 PM - 10:00 PM	1	TRUE
+146	Mexican	Medium	Wall Street	9:00 AM - 5:00 PM	2	TRUE
+147	Thai	Expensive	Upper East Side	2:00 PM - 10:00 PM	3	FALSE
+148	Chinese	Medium	Lower East Side	9:00 AM - 5:00 PM	2	FALSE
+149	Pizza	Cheap	Battery Park City	2:00 PM - 10:00 PM	1	FALSE
+150	Indian	Cheap	Harlem	2:00 PM - 10:00 PM	1	TRUE
+151	Indian	Cheap	East Harlem	2:00 PM - 10:00 PM	2	TRUE
+152	Indian	Expensive	Harlem	2:00 PM - 10:00 PM	5	FALSE
+153	Mexican	Expensive	Times Square	9:00 AM - 5:00 PM	3	TRUE
+154	Indian	Medium	Chinatown	9:00 AM - 5:00 PM	2	FALSE
+155	Burgers	Cheap	Greenwich Village	2:00 PM - 10:00 PM	5	TRUE
+156	Pizza	Cheap	Midtown	9:00 AM - 5:00 PM	1	FALSE
+157	Korean	Expensive	Chinatown	2:00 PM - 10:00 PM	1	TRUE
+158	Pizza	Medium	Lower East Side	2:00 PM - 10:00 PM	3	TRUE
+159	Burgers	Medium	Gramercy	2:00 PM - 10:00 PM	4	FALSE
+160	Desserts	Medium	Lower East Side	2:00 PM - 10:00 PM	5	TRUE
+161	Italian	Cheap	Washington Heights	9:00 AM - 5:00 PM	5	TRUE
+162	Mexican	Expensive	Greenwich Village	9:00 AM - 5:00 PM	3	TRUE
+163	Pizza	Expensive	Inwood	9:00 AM - 5:00 PM	5	FALSE
+164	Pizza	Cheap	Lower East Side	9:00 AM - 5:00 PM	3	FALSE
+165	Chinese	Cheap	Washington Heights	2:00 PM - 10:00 PM	3	TRUE
+166	Korean	Cheap	Herald Square	9:00 AM - 5:00 PM	3	FALSE
+167	Indian	Cheap	Gramercy	9:00 AM - 5:00 PM	1	FALSE
+168	Mexican	Cheap	East Harlem	9:00 AM - 5:00 PM	4	FALSE
+169	Chinese	Cheap	Financial District	9:00 AM - 5:00 PM	1	TRUE
+170	Burgers	Cheap	Chinatown	2:00 PM - 10:00 PM	2	TRUE
+171	Desserts	Expensive	Upper East Side	9:00 AM - 5:00 PM	3	FALSE
+172	Desserts	Expensive	Flatiron	2:00 PM - 10:00 PM	3	FALSE
+173	Indian	Expensive	NoHo	9:00 AM - 5:00 PM	5	FALSE
+174	Thai	Medium	Battery Park City	2:00 PM - 10:00 PM	2	FALSE
+175	Thai	Medium	East Harlem	2:00 PM - 10:00 PM	5	FALSE
+176	Thai	Expensive	Battery Park City	2:00 PM - 10:00 PM	5	FALSE
+177	Desserts	Medium	NoHo	2:00 PM - 10:00 PM	5	TRUE
+178	Italian	Medium	Wall Street	9:00 AM - 5:00 PM	3	FALSE
+179	Desserts	Expensive	Chelsea	9:00 AM - 5:00 PM	2	FALSE
+180	Mexican	Cheap	Times Square	2:00 PM - 10:00 PM	4	FALSE
+181	Indian	Expensive	Upper East Side	9:00 AM - 5:00 PM	4	FALSE
+182	Thai	Cheap	Midtown	2:00 PM - 10:00 PM	1	FALSE
+183	Burgers	Medium	Greenwich Village	2:00 PM - 10:00 PM	3	FALSE
+184	Pizza	Medium	SoHo	9:00 AM - 5:00 PM	1	TRUE
+185	Thai	Cheap	SoHo	2:00 PM - 10:00 PM	4	FALSE
+186	Sushi	Cheap	Lower East Side	9:00 AM - 5:00 PM	4	TRUE
+187	Thai	Expensive	Gramercy	9:00 AM - 5:00 PM	2	TRUE
+188	Thai	Medium	Chinatown	2:00 PM - 10:00 PM	2	TRUE
+189	Korean	Cheap	Times Square	9:00 AM - 5:00 PM	2	FALSE
+190	Indian	Expensive	East Harlem	2:00 PM - 10:00 PM	2	TRUE
+191	Chinese	Medium	Battery Park City	2:00 PM - 10:00 PM	1	TRUE
+192	Sushi	Cheap	Herald Square	9:00 AM - 5:00 PM	5	TRUE
+193	Mexican	Expensive	Times Square	2:00 PM - 10:00 PM	3	FALSE
+194	Sushi	Expensive	Union Square	2:00 PM - 10:00 PM	3	TRUE
+195	Chinese	Cheap	Hudson Square	9:00 AM - 5:00 PM	3	TRUE
+196	Desserts	Medium	West Village	2:00 PM - 10:00 PM	4	TRUE
+197	Sushi	Medium	Upper West Side	2:00 PM - 10:00 PM	5	TRUE
+198	Pizza	Cheap	West Village	9:00 AM - 5:00 PM	2	TRUE
+199	Italian	Cheap	Upper West Side	2:00 PM - 10:00 PM	4	FALSE
+200	Chinese	Expensive	Chinatown	2:00 PM - 10:00 PM	5	TRUE
+201	Indian	Cheap	Union Square	2:00 PM - 10:00 PM	1	FALSE
+202	Thai	Expensive	Midtown	9:00 AM - 5:00 PM	3	FALSE
+203	Mexican	Medium	Chelsea	9:00 AM - 5:00 PM	5	TRUE
+204	Chinese	Expensive	Flatiron	2:00 PM - 10:00 PM	1	FALSE
+205	Sushi	Expensive	Harlem	2:00 PM - 10:00 PM	5	TRUE
+206	Pizza	Cheap	Chinatown	9:00 AM - 5:00 PM	1	FALSE
+207	Desserts	Cheap	Inwood	9:00 AM - 5:00 PM	2	FALSE
+208	Italian	Cheap	SoHo	2:00 PM - 10:00 PM	5	FALSE
+209	Italian	Expensive	Tribeca	9:00 AM - 5:00 PM	3	FALSE
+210	Indian	Medium	Tribeca	9:00 AM - 5:00 PM	4	FALSE
+211	Burgers	Medium	Flatiron	9:00 AM - 5:00 PM	5	FALSE
+212	Italian	Cheap	East Harlem	9:00 AM - 5:00 PM	2	TRUE
+213	Pizza	Cheap	NoHo	9:00 AM - 5:00 PM	2	FALSE
+214	Chinese	Expensive	Washington Heights	9:00 AM - 5:00 PM	2	FALSE
+215	Burgers	Cheap	Lower East Side	2:00 PM - 10:00 PM	3	TRUE
+216	Mexican	Expensive	SoHo	2:00 PM - 10:00 PM	4	TRUE
+217	Korean	Expensive	Herald Square	9:00 AM - 5:00 PM	1	FALSE
+218	Desserts	Cheap	Times Square	9:00 AM - 5:00 PM	5	TRUE
+219	Chinese	Medium	Herald Square	2:00 PM - 10:00 PM	3	FALSE
+220	Korean	Expensive	Upper East Side	2:00 PM - 10:00 PM	2	TRUE
+221	Burgers	Medium	Chelsea	9:00 AM - 5:00 PM	1	TRUE
+222	Indian	Cheap	Herald Square	9:00 AM - 5:00 PM	4	FALSE
+223	Desserts	Expensive	SoHo	2:00 PM - 10:00 PM	5	TRUE
+224	Mexican	Medium	Midtown	2:00 PM - 10:00 PM	4	FALSE
+225	Thai	Expensive	Harlem	9:00 AM - 5:00 PM	2	FALSE
+226	Indian	Cheap	Greenwich Village	2:00 PM - 10:00 PM	3	TRUE
+227	Sushi	Medium	Tribeca	2:00 PM - 10:00 PM	4	TRUE
+228	Indian	Expensive	Battery Park City	9:00 AM - 5:00 PM	2	FALSE
+229	Burgers	Medium	East Harlem	9:00 AM - 5:00 PM	2	TRUE
+230	Indian	Expensive	Lower East Side	2:00 PM - 10:00 PM	3	FALSE
+231	Burgers	Medium	Upper West Side	9:00 AM - 5:00 PM	2	TRUE
+232	Desserts	Medium	Inwood	9:00 AM - 5:00 PM	2	FALSE
+233	Pizza	Cheap	Upper East Side	9:00 AM - 5:00 PM	1	FALSE
+234	Chinese	Expensive	Battery Park City	9:00 AM - 5:00 PM	3	FALSE
+235	Thai	Expensive	Tribeca	9:00 AM - 5:00 PM	2	FALSE
+236	Indian	Expensive	Lower East Side	2:00 PM - 10:00 PM	4	TRUE
+237	Indian	Medium	Washington Heights	9:00 AM - 5:00 PM	4	FALSE
+238	Sushi	Medium	Wall Street	2:00 PM - 10:00 PM	2	FALSE
+239	Thai	Expensive	Harlem	9:00 AM - 5:00 PM	2	FALSE
+240	Thai	Medium	Union Square	2:00 PM - 10:00 PM	2	TRUE
+241	Italian	Expensive	Herald Square	2:00 PM - 10:00 PM	2	FALSE
+242	Desserts	Medium	Inwood	9:00 AM - 5:00 PM	2	FALSE
+243	Indian	Cheap	Wall Street	2:00 PM - 10:00 PM	5	TRUE
+244	Chinese	Expensive	Tribeca	2:00 PM - 10:00 PM	2	FALSE
+245	Sushi	Medium	Midtown	2:00 PM - 10:00 PM	3	TRUE
+246	Indian	Cheap	Upper West Side	2:00 PM - 10:00 PM	5	TRUE
+247	Burgers	Cheap	NoHo	9:00 AM - 5:00 PM	1	TRUE
+248	Korean	Expensive	Chinatown	9:00 AM - 5:00 PM	3	TRUE
+249	Indian	Cheap	Washington Heights	9:00 AM - 5:00 PM	2	FALSE
+250	Chinese	Expensive	Inwood	2:00 PM - 10:00 PM	5	FALSE
+251	Korean	Medium	Washington Heights	9:00 AM - 5:00 PM	4	FALSE
+252	Desserts	Expensive	SoHo	9:00 AM - 5:00 PM	5	TRUE
+253	Thai	Medium	Gramercy	2:00 PM - 10:00 PM	5	TRUE
+254	Desserts	Expensive	East Harlem	9:00 AM - 5:00 PM	1	TRUE
+255	Desserts	Expensive	Midtown	9:00 AM - 5:00 PM	1	FALSE
+256	Mexican	Medium	Chelsea	9:00 AM - 5:00 PM	2	FALSE
+257	Mexican	Medium	Midtown	2:00 PM - 10:00 PM	1	FALSE
+258	Chinese	Cheap	Upper West Side	2:00 PM - 10:00 PM	5	TRUE
+259	Burgers	Medium	Wall Street	9:00 AM - 5:00 PM	4	FALSE
+260	Indian	Cheap	Union Square	9:00 AM - 5:00 PM	2	FALSE
+261	Italian	Cheap	Union Square	9:00 AM - 5:00 PM	2	FALSE
+262	Indian	Expensive	Inwood	9:00 AM - 5:00 PM	1	FALSE
+263	Chinese	Expensive	Union Square	9:00 AM - 5:00 PM	2	FALSE
+264	Mexican	Expensive	Wall Street	2:00 PM - 10:00 PM	3	FALSE
+265	Chinese	Cheap	West Village	9:00 AM - 5:00 PM	3	FALSE
+266	Indian	Expensive	NoHo	2:00 PM - 10:00 PM	2	FALSE
+267	Mexican	Expensive	Greenwich Village	9:00 AM - 5:00 PM	4	FALSE
+268	Sushi	Medium	Tribeca	2:00 PM - 10:00 PM	3	TRUE
+269	Italian	Medium	Times Square	2:00 PM - 10:00 PM	5	FALSE
+270	Chinese	Medium	East Harlem	2:00 PM - 10:00 PM	5	TRUE
+271	Sushi	Expensive	Upper East Side	2:00 PM - 10:00 PM	1	TRUE
+272	Thai	Expensive	SoHo	9:00 AM - 5:00 PM	2	FALSE
+273	Thai	Medium	Chelsea	9:00 AM - 5:00 PM	4	TRUE
+274	Pizza	Expensive	Herald Square	2:00 PM - 10:00 PM	1	TRUE
+275	Indian	Expensive	East Harlem	2:00 PM - 10:00 PM	1	TRUE
+276	Pizza	Cheap	Lower East Side	2:00 PM - 10:00 PM	2	FALSE
+277	Mexican	Medium	Gramercy	2:00 PM - 10:00 PM	5	FALSE
+278	Mexican	Expensive	NoHo	2:00 PM - 10:00 PM	1	FALSE
+279	Italian	Expensive	Herald Square	2:00 PM - 10:00 PM	5	FALSE
+280	Indian	Cheap	Inwood	2:00 PM - 10:00 PM	2	TRUE
+281	Burgers	Expensive	Union Square	2:00 PM - 10:00 PM	2	TRUE
+282	Mexican	Medium	Inwood	9:00 AM - 5:00 PM	5	TRUE
+283	Italian	Medium	Union Square	2:00 PM - 10:00 PM	2	FALSE
+284	Chinese	Cheap	Financial District	2:00 PM - 10:00 PM	1	FALSE
+285	Chinese	Medium	Upper West Side	2:00 PM - 10:00 PM	2	TRUE
+286	Pizza	Medium	Upper East Side	2:00 PM - 10:00 PM	1	FALSE
+287	Desserts	Medium	Washington Heights	2:00 PM - 10:00 PM	5	TRUE
+288	Korean	Expensive	Upper East Side	2:00 PM - 10:00 PM	1	FALSE
+289	Chinese	Expensive	Upper West Side	9:00 AM - 5:00 PM	1	FALSE
+290	Korean	Expensive	Herald Square	9:00 AM - 5:00 PM	5	FALSE
+291	Indian	Expensive	Upper West Side	2:00 PM - 10:00 PM	5	TRUE
+292	Indian	Cheap	Herald Square	2:00 PM - 10:00 PM	3	TRUE
+293	Sushi	Expensive	Chelsea	9:00 AM - 5:00 PM	1	TRUE
+294	Burgers	Medium	Times Square	2:00 PM - 10:00 PM	3	FALSE
+295	Italian	Cheap	Chinatown	9:00 AM - 5:00 PM	1	TRUE
+296	Italian	Cheap	Lower East Side	2:00 PM - 10:00 PM	4	TRUE
+297	Burgers	Medium	Flatiron	2:00 PM - 10:00 PM	4	TRUE
+298	Chinese	Cheap	Battery Park City	2:00 PM - 10:00 PM	2	FALSE
+299	Thai	Medium	Hudson Square	9:00 AM - 5:00 PM	5	FALSE
+300	Desserts	Medium	Financial District	9:00 AM - 5:00 PM	4	FALSE
+301	Indian	Medium	Times Square	9:00 AM - 5:00 PM	5	TRUE
+302	Korean	Medium	Chelsea	2:00 PM - 10:00 PM	3	FALSE
+303	Burgers	Expensive	Wall Street	2:00 PM - 10:00 PM	4	FALSE
+304	Mexican	Medium	East Harlem	9:00 AM - 5:00 PM	1	FALSE
+305	Burgers	Cheap	Flatiron	2:00 PM - 10:00 PM	5	FALSE
+306	Chinese	Cheap	NoHo	9:00 AM - 5:00 PM	2	TRUE
+307	Burgers	Cheap	Chelsea	9:00 AM - 5:00 PM	1	TRUE
+308	Korean	Expensive	Upper West Side	2:00 PM - 10:00 PM	1	FALSE
+309	Italian	Medium	Herald Square	2:00 PM - 10:00 PM	4	TRUE
+310	Italian	Expensive	Union Square	9:00 AM - 5:00 PM	2	FALSE
+311	Indian	Cheap	Upper East Side	9:00 AM - 5:00 PM	2	TRUE
+312	Mexican	Medium	Upper West Side	2:00 PM - 10:00 PM	2	FALSE
+313	Chinese	Medium	Times Square	2:00 PM - 10:00 PM	3	FALSE
+314	Pizza	Expensive	West Village	9:00 AM - 5:00 PM	2	FALSE
+315	Mexican	Cheap	Upper East Side	9:00 AM - 5:00 PM	3	FALSE
+316	Thai	Cheap	Times Square	9:00 AM - 5:00 PM	4	TRUE
+317	Burgers	Cheap	Herald Square	2:00 PM - 10:00 PM	5	TRUE
+318	Pizza	Expensive	Washington Heights	9:00 AM - 5:00 PM	5	TRUE
+319	Indian	Expensive	West Village	9:00 AM - 5:00 PM	5	TRUE
+320	Korean	Cheap	Hudson Square	2:00 PM - 10:00 PM	2	FALSE
+321	Italian	Cheap	Herald Square	9:00 AM - 5:00 PM	4	FALSE
+322	Mexican	Medium	Herald Square	9:00 AM - 5:00 PM	1	TRUE
+323	Desserts	Cheap	Union Square	2:00 PM - 10:00 PM	1	TRUE
+324	Italian	Expensive	Chinatown	9:00 AM - 5:00 PM	4	TRUE
+325	Desserts	Medium	Battery Park City	9:00 AM - 5:00 PM	5	FALSE
+326	Mexican	Expensive	Wall Street	9:00 AM - 5:00 PM	2	FALSE
+327	Mexican	Cheap	Financial District	2:00 PM - 10:00 PM	1	TRUE
+328	Desserts	Expensive	Upper East Side	2:00 PM - 10:00 PM	2	TRUE
+329	Italian	Cheap	Financial District	9:00 AM - 5:00 PM	2	TRUE
+330	Desserts	Cheap	Flatiron	9:00 AM - 5:00 PM	1	TRUE
+331	Mexican	Medium	Washington Heights	9:00 AM - 5:00 PM	1	FALSE
+332	Chinese	Cheap	Chinatown	9:00 AM - 5:00 PM	2	TRUE
+333	Desserts	Expensive	Inwood	2:00 PM - 10:00 PM	1	TRUE
+334	Mexican	Expensive	Inwood	2:00 PM - 10:00 PM	3	FALSE
+335	Italian	Expensive	Chinatown	2:00 PM - 10:00 PM	1	FALSE
+336	Desserts	Cheap	Inwood	2:00 PM - 10:00 PM	4	TRUE
+337	Korean	Medium	Midtown	9:00 AM - 5:00 PM	4	TRUE
+338	Indian	Cheap	Union Square	2:00 PM - 10:00 PM	2	TRUE
+339	Desserts	Cheap	Chinatown	9:00 AM - 5:00 PM	5	FALSE
+340	Burgers	Expensive	Chinatown	2:00 PM - 10:00 PM	1	FALSE
+341	Burgers	Medium	Upper East Side	9:00 AM - 5:00 PM	2	FALSE
+342	Mexican	Cheap	Harlem	2:00 PM - 10:00 PM	5	FALSE
+343	Desserts	Expensive	Flatiron	9:00 AM - 5:00 PM	3	TRUE
+344	Sushi	Expensive	Upper West Side	2:00 PM - 10:00 PM	4	FALSE
+345	Desserts	Medium	West Village	9:00 AM - 5:00 PM	1	TRUE
+346	Chinese	Expensive	Upper West Side	9:00 AM - 5:00 PM	3	TRUE
+347	Italian	Cheap	Chelsea	9:00 AM - 5:00 PM	1	FALSE
+348	Korean	Cheap	NoHo	2:00 PM - 10:00 PM	1	TRUE
+349	Desserts	Expensive	Financial District	2:00 PM - 10:00 PM	4	FALSE
+350	Indian	Expensive	Greenwich Village	9:00 AM - 5:00 PM	1	TRUE
+351	Indian	Medium	Greenwich Village	2:00 PM - 10:00 PM	2	TRUE
+352	Indian	Cheap	Lower East Side	2:00 PM - 10:00 PM	2	FALSE
+353	Chinese	Medium	Upper West Side	2:00 PM - 10:00 PM	5	FALSE
+354	Indian	Cheap	Upper East Side	9:00 AM - 5:00 PM	5	FALSE
+355	Chinese	Medium	Union Square	9:00 AM - 5:00 PM	2	FALSE
+356	Pizza	Medium	Inwood	9:00 AM - 5:00 PM	3	FALSE
+357	Sushi	Expensive	Flatiron	2:00 PM - 10:00 PM	5	FALSE
+358	Thai	Expensive	Herald Square	9:00 AM - 5:00 PM	4	FALSE
+359	Indian	Cheap	Union Square	9:00 AM - 5:00 PM	3	TRUE
+360	Sushi	Medium	West Village	9:00 AM - 5:00 PM	3	TRUE
+361	Burgers	Medium	Flatiron	9:00 AM - 5:00 PM	2	TRUE
+362	Mexican	Cheap	Upper East Side	9:00 AM - 5:00 PM	2	TRUE
+363	Italian	Medium	Greenwich Village	9:00 AM - 5:00 PM	2	TRUE
+364	Pizza	Expensive	Hudson Square	9:00 AM - 5:00 PM	4	FALSE
+365	Korean	Cheap	Greenwich Village	2:00 PM - 10:00 PM	5	TRUE
+366	Indian	Cheap	Lower East Side	9:00 AM - 5:00 PM	5	TRUE
+367	Mexican	Expensive	Wall Street	2:00 PM - 10:00 PM	5	TRUE
+368	Chinese	Cheap	Gramercy	9:00 AM - 5:00 PM	1	FALSE
+369	Pizza	Cheap	Gramercy	9:00 AM - 5:00 PM	3	TRUE
+370	Chinese	Medium	Greenwich Village	2:00 PM - 10:00 PM	5	FALSE
+371	Desserts	Cheap	Chelsea	9:00 AM - 5:00 PM	3	FALSE
+372	Chinese	Medium	NoHo	2:00 PM - 10:00 PM	5	FALSE
+373	Desserts	Expensive	Wall Street	2:00 PM - 10:00 PM	3	TRUE
+374	Korean	Expensive	Upper West Side	9:00 AM - 5:00 PM	2	FALSE
+375	Sushi	Cheap	SoHo	9:00 AM - 5:00 PM	4	FALSE
+376	Sushi	Cheap	Union Square	2:00 PM - 10:00 PM	2	FALSE
+377	Indian	Medium	Flatiron	9:00 AM - 5:00 PM	3	TRUE
+378	Pizza	Cheap	East Harlem	2:00 PM - 10:00 PM	4	TRUE
+379	Thai	Expensive	Inwood	2:00 PM - 10:00 PM	5	FALSE
+380	Chinese	Cheap	West Village	9:00 AM - 5:00 PM	2	FALSE
+381	Pizza	Expensive	Greenwich Village	9:00 AM - 5:00 PM	1	FALSE
+382	Pizza	Cheap	Herald Square	9:00 AM - 5:00 PM	2	TRUE
+383	Burgers	Expensive	Financial District	9:00 AM - 5:00 PM	4	FALSE
+384	Burgers	Expensive	Battery Park City	9:00 AM - 5:00 PM	5	FALSE
+385	Desserts	Expensive	NoHo	2:00 PM - 10:00 PM	1	FALSE
+386	Indian	Cheap	NoHo	2:00 PM - 10:00 PM	4	FALSE
+387	Indian	Medium	Tribeca	9:00 AM - 5:00 PM	1	TRUE
+388	Korean	Expensive	Chinatown	9:00 AM - 5:00 PM	3	TRUE
+389	Pizza	Cheap	Upper West Side	9:00 AM - 5:00 PM	3	FALSE
+390	Italian	Medium	Chelsea	9:00 AM - 5:00 PM	5	FALSE
+391	Korean	Medium	Times Square	2:00 PM - 10:00 PM	3	FALSE
+392	Sushi	Cheap	Flatiron	2:00 PM - 10:00 PM	3	TRUE
+393	Indian	Expensive	Lower East Side	2:00 PM - 10:00 PM	5	FALSE
+394	Desserts	Medium	Flatiron	9:00 AM - 5:00 PM	1	FALSE
+395	Indian	Cheap	Upper West Side	2:00 PM - 10:00 PM	2	FALSE
+396	Indian	Expensive	Chinatown	2:00 PM - 10:00 PM	3	FALSE
+397	Chinese	Medium	West Village	9:00 AM - 5:00 PM	1	FALSE
+398	Mexican	Expensive	Tribeca	2:00 PM - 10:00 PM	5	FALSE
+399	Mexican	Cheap	Herald Square	9:00 AM - 5:00 PM	2	FALSE
+400	Korean	Cheap	Union Square	9:00 AM - 5:00 PM	4	TRUE
+401	Sushi	Medium	Upper West Side	9:00 AM - 5:00 PM	2	TRUE
+402	Burgers	Cheap	Harlem	2:00 PM - 10:00 PM	3	TRUE
+403	Chinese	Medium	Midtown	9:00 AM - 5:00 PM	4	TRUE
+404	Burgers	Medium	Hudson Square	9:00 AM - 5:00 PM	2	TRUE
+405	Indian	Cheap	Flatiron	2:00 PM - 10:00 PM	4	FALSE
+406	Pizza	Medium	Tribeca	2:00 PM - 10:00 PM	2	FALSE
+407	Pizza	Medium	Flatiron	2:00 PM - 10:00 PM	1	FALSE
+408	Sushi	Medium	SoHo	9:00 AM - 5:00 PM	5	FALSE
+409	Mexican	Expensive	Tribeca	9:00 AM - 5:00 PM	5	FALSE
+410	Burgers	Expensive	Herald Square	9:00 AM - 5:00 PM	4	TRUE
+411	Italian	Cheap	Hudson Square	2:00 PM - 10:00 PM	5	FALSE
+412	Italian	Expensive	Chinatown	2:00 PM - 10:00 PM	1	FALSE
+413	Mexican	Medium	Inwood	2:00 PM - 10:00 PM	3	TRUE
+414	Indian	Expensive	Hudson Square	9:00 AM - 5:00 PM	2	TRUE
+415	Desserts	Expensive	Battery Park City	9:00 AM - 5:00 PM	5	FALSE
+416	Mexican	Medium	Washington Heights	9:00 AM - 5:00 PM	2	TRUE
+417	Burgers	Cheap	Midtown	2:00 PM - 10:00 PM	1	FALSE
+418	Burgers	Medium	Lower East Side	2:00 PM - 10:00 PM	5	TRUE
+419	Italian	Expensive	Midtown	2:00 PM - 10:00 PM	2	FALSE
+420	Thai	Cheap	West Village	9:00 AM - 5:00 PM	4	TRUE
+421	Sushi	Cheap	Financial District	2:00 PM - 10:00 PM	1	TRUE
+422	Burgers	Cheap	Union Square	2:00 PM - 10:00 PM	3	TRUE
+423	Italian	Cheap	Greenwich Village	2:00 PM - 10:00 PM	5	TRUE
+424	Korean	Medium	Times Square	2:00 PM - 10:00 PM	5	FALSE
+425	Mexican	Medium	Harlem	2:00 PM - 10:00 PM	1	FALSE
+426	Indian	Medium	SoHo	2:00 PM - 10:00 PM	1	TRUE
+427	Chinese	Cheap	Chinatown	9:00 AM - 5:00 PM	4	TRUE
+428	Indian	Medium	Greenwich Village	9:00 AM - 5:00 PM	5	TRUE
+429	Pizza	Medium	Times Square	2:00 PM - 10:00 PM	5	FALSE
+430	Korean	Expensive	Battery Park City	2:00 PM - 10:00 PM	4	TRUE
+431	Burgers	Expensive	Harlem	9:00 AM - 5:00 PM	3	TRUE
+432	Chinese	Expensive	Tribeca	9:00 AM - 5:00 PM	1	TRUE
+433	Desserts	Expensive	Union Square	2:00 PM - 10:00 PM	1	FALSE
+434	Burgers	Expensive	SoHo	2:00 PM - 10:00 PM	1	FALSE
+435	Sushi	Cheap	Chelsea	9:00 AM - 5:00 PM	5	TRUE
+436	Sushi	Expensive	East Harlem	9:00 AM - 5:00 PM	1	FALSE
+437	Desserts	Medium	Upper West Side	9:00 AM - 5:00 PM	2	FALSE
+438	Pizza	Medium	Washington Heights	9:00 AM - 5:00 PM	5	FALSE
+439	Thai	Medium	Financial District	9:00 AM - 5:00 PM	1	FALSE
+440	Chinese	Medium	Tribeca	2:00 PM - 10:00 PM	5	FALSE
+441	Mexican	Cheap	Hudson Square	9:00 AM - 5:00 PM	5	TRUE
+442	Chinese	Medium	Times Square	9:00 AM - 5:00 PM	2	TRUE
+443	Thai	Cheap	Union Square	2:00 PM - 10:00 PM	1	FALSE
+444	Chinese	Cheap	Times Square	9:00 AM - 5:00 PM	4	FALSE
+445	Burgers	Medium	Midtown	2:00 PM - 10:00 PM	2	TRUE
+446	Thai	Expensive	Wall Street	2:00 PM - 10:00 PM	3	FALSE
+447	Desserts	Expensive	Upper East Side	2:00 PM - 10:00 PM	1	TRUE
+448	Sushi	Cheap	Inwood	2:00 PM - 10:00 PM	2	FALSE
+449	Mexican	Cheap	Tribeca	2:00 PM - 10:00 PM	5	FALSE
+450	Italian	Expensive	Times Square	2:00 PM - 10:00 PM	2	FALSE
+451	Burgers	Expensive	Wall Street	9:00 AM - 5:00 PM	1	FALSE
+452	Chinese	Medium	Gramercy	2:00 PM - 10:00 PM	4	TRUE
+453	Chinese	Cheap	East Harlem	2:00 PM - 10:00 PM	2	FALSE
+454	Sushi	Medium	Upper East Side	2:00 PM - 10:00 PM	4	FALSE
+455	Burgers	Expensive	NoHo	9:00 AM - 5:00 PM	1	TRUE
+456	Mexican	Expensive	Chinatown	2:00 PM - 10:00 PM	2	TRUE
+457	Italian	Cheap	West Village	9:00 AM - 5:00 PM	5	TRUE
+458	Sushi	Cheap	Tribeca	2:00 PM - 10:00 PM	3	FALSE
+459	Sushi	Cheap	Herald Square	9:00 AM - 5:00 PM	2	FALSE
+460	Pizza	Expensive	Times Square	9:00 AM - 5:00 PM	4	TRUE
+461	Sushi	Expensive	Gramercy	9:00 AM - 5:00 PM	2	FALSE
+462	Burgers	Medium	Upper East Side	9:00 AM - 5:00 PM	1	TRUE
+463	Korean	Cheap	Upper West Side	9:00 AM - 5:00 PM	5	TRUE
+464	Italian	Expensive	Gramercy	2:00 PM - 10:00 PM	3	FALSE
+465	Desserts	Medium	Upper East Side	9:00 AM - 5:00 PM	4	FALSE
+466	Pizza	Cheap	Union Square	2:00 PM - 10:00 PM	3	FALSE
+467	Pizza	Medium	Lower East Side	9:00 AM - 5:00 PM	4	FALSE
+468	Pizza	Cheap	Wall Street	2:00 PM - 10:00 PM	1	TRUE
+469	Pizza	Expensive	Inwood	9:00 AM - 5:00 PM	5	TRUE
+470	Korean	Expensive	Harlem	2:00 PM - 10:00 PM	3	FALSE
+471	Chinese	Medium	Wall Street	9:00 AM - 5:00 PM	5	FALSE
+472	Italian	Expensive	NoHo	9:00 AM - 5:00 PM	1	TRUE
+473	Indian	Medium	Hudson Square	2:00 PM - 10:00 PM	4	FALSE
+474	Korean	Expensive	Battery Park City	2:00 PM - 10:00 PM	2	FALSE
+475	Sushi	Cheap	Inwood	2:00 PM - 10:00 PM	4	FALSE
+476	Chinese	Cheap	Times Square	9:00 AM - 5:00 PM	4	TRUE
+477	Chinese	Expensive	Battery Park City	9:00 AM - 5:00 PM	3	TRUE
+478	Indian	Expensive	Midtown	2:00 PM - 10:00 PM	4	TRUE
+479	Sushi	Expensive	Hudson Square	9:00 AM - 5:00 PM	1	TRUE
+480	Indian	Medium	Times Square	2:00 PM - 10:00 PM	1	TRUE
+481	Burgers	Medium	Lower East Side	2:00 PM - 10:00 PM	4	FALSE
+482	Chinese	Medium	NoHo	9:00 AM - 5:00 PM	3	TRUE
+483	Burgers	Expensive	Tribeca	2:00 PM - 10:00 PM	4	FALSE
+484	Burgers	Medium	Greenwich Village	9:00 AM - 5:00 PM	4	TRUE
+485	Indian	Medium	Greenwich Village	9:00 AM - 5:00 PM	3	TRUE
+486	Indian	Expensive	West Village	9:00 AM - 5:00 PM	4	TRUE
+487	Korean	Expensive	Washington Heights	2:00 PM - 10:00 PM	1	TRUE
+488	Burgers	Medium	Flatiron	2:00 PM - 10:00 PM	5	TRUE
+489	Pizza	Cheap	East Harlem	9:00 AM - 5:00 PM	3	TRUE
+490	Korean	Expensive	Flatiron	2:00 PM - 10:00 PM	3	TRUE
+491	Italian	Expensive	West Village	9:00 AM - 5:00 PM	2	FALSE
+492	Thai	Expensive	SoHo	9:00 AM - 5:00 PM	5	TRUE
+493	Korean	Cheap	Washington Heights	9:00 AM - 5:00 PM	1	TRUE
+494	Chinese	Expensive	West Village	2:00 PM - 10:00 PM	2	TRUE
+495	Korean	Expensive	Flatiron	9:00 AM - 5:00 PM	2	FALSE
+496	Korean	Expensive	Herald Square	2:00 PM - 10:00 PM	4	TRUE
+497	Thai	Cheap	Greenwich Village	2:00 PM - 10:00 PM	5	FALSE
+498	Korean	Expensive	Financial District	2:00 PM - 10:00 PM	4	TRUE
+499	Mexican	Medium	Herald Square	2:00 PM - 10:00 PM	4	FALSE
+500	Chinese	Medium	Harlem	9:00 AM - 5:00 PM	1	TRUE
+501	Burgers	Cheap	Wall Street	9:00 AM - 5:00 PM	4	TRUE
+502	Italian	Medium	Washington Heights	2:00 PM - 10:00 PM	1	TRUE
+503	Pizza	Expensive	Inwood	2:00 PM - 10:00 PM	5	TRUE
+504	Pizza	Expensive	Harlem	2:00 PM - 10:00 PM	3	TRUE
+505	Pizza	Cheap	Herald Square	2:00 PM - 10:00 PM	1	FALSE
+506	Desserts	Expensive	East Harlem	9:00 AM - 5:00 PM	1	FALSE
+507	Sushi	Cheap	Upper West Side	9:00 AM - 5:00 PM	3	TRUE
+508	Sushi	Expensive	Herald Square	2:00 PM - 10:00 PM	5	FALSE
+509	Mexican	Medium	Herald Square	2:00 PM - 10:00 PM	5	FALSE
+510	Chinese	Medium	Chinatown	9:00 AM - 5:00 PM	4	TRUE
+511	Sushi	Expensive	Upper West Side	9:00 AM - 5:00 PM	4	TRUE
+512	Pizza	Expensive	Herald Square	2:00 PM - 10:00 PM	3	FALSE
+513	Thai	Medium	Inwood	2:00 PM - 10:00 PM	1	FALSE
+514	Korean	Medium	West Village	2:00 PM - 10:00 PM	3	FALSE
+515	Indian	Expensive	Tribeca	2:00 PM - 10:00 PM	5	TRUE
+516	Thai	Medium	SoHo	2:00 PM - 10:00 PM	1	TRUE
+517	Sushi	Cheap	Hudson Square	9:00 AM - 5:00 PM	1	FALSE
+518	Mexican	Expensive	Union Square	2:00 PM - 10:00 PM	3	FALSE
+519	Thai	Medium	Union Square	9:00 AM - 5:00 PM	4	TRUE
+520	Sushi	Medium	Tribeca	2:00 PM - 10:00 PM	3	FALSE
+521	Thai	Medium	Wall Street	9:00 AM - 5:00 PM	1	FALSE
+522	Thai	Cheap	Hudson Square	9:00 AM - 5:00 PM	2	TRUE
+523	Korean	Medium	Chinatown	9:00 AM - 5:00 PM	5	TRUE
+524	Burgers	Cheap	Upper East Side	2:00 PM - 10:00 PM	1	TRUE
+525	Indian	Medium	Gramercy	2:00 PM - 10:00 PM	5	TRUE
+526	Sushi	Expensive	Tribeca	9:00 AM - 5:00 PM	2	TRUE
+527	Italian	Cheap	Herald Square	2:00 PM - 10:00 PM	4	FALSE
+528	Indian	Cheap	Times Square	9:00 AM - 5:00 PM	3	FALSE
+529	Korean	Expensive	Union Square	2:00 PM - 10:00 PM	4	FALSE
+530	Sushi	Cheap	East Harlem	9:00 AM - 5:00 PM	4	FALSE
+531	Sushi	Cheap	Midtown	9:00 AM - 5:00 PM	5	TRUE
+532	Pizza	Cheap	Lower East Side	2:00 PM - 10:00 PM	2	FALSE
+533	Indian	Cheap	Battery Park City	9:00 AM - 5:00 PM	2	TRUE
+534	Sushi	Medium	Washington Heights	2:00 PM - 10:00 PM	2	FALSE
+535	Mexican	Medium	Inwood	2:00 PM - 10:00 PM	1	TRUE
+536	Burgers	Cheap	Chinatown	9:00 AM - 5:00 PM	1	FALSE
+537	Chinese	Expensive	Chinatown	2:00 PM - 10:00 PM	4	TRUE
+538	Indian	Cheap	Chelsea	9:00 AM - 5:00 PM	3	TRUE
+539	Mexican	Medium	Times Square	2:00 PM - 10:00 PM	4	TRUE
+540	Korean	Cheap	NoHo	9:00 AM - 5:00 PM	2	FALSE
+541	Korean	Cheap	Lower East Side	9:00 AM - 5:00 PM	4	TRUE
+542	Burgers	Expensive	Battery Park City	2:00 PM - 10:00 PM	4	FALSE
+543	Sushi	Expensive	Upper West Side	2:00 PM - 10:00 PM	1	TRUE
+544	Thai	Expensive	Flatiron	2:00 PM - 10:00 PM	1	TRUE
+545	Thai	Cheap	Battery Park City	9:00 AM - 5:00 PM	3	FALSE
+546	Mexican	Medium	SoHo	9:00 AM - 5:00 PM	4	FALSE
+547	Sushi	Cheap	Greenwich Village	9:00 AM - 5:00 PM	2	FALSE
+548	Italian	Expensive	Hudson Square	9:00 AM - 5:00 PM	4	TRUE
+549	Sushi	Cheap	Lower East Side	9:00 AM - 5:00 PM	4	FALSE
+550	Desserts	Medium	Greenwich Village	9:00 AM - 5:00 PM	1	TRUE
+551	Indian	Expensive	Hudson Square	9:00 AM - 5:00 PM	1	TRUE
+552	Desserts	Expensive	Upper East Side	2:00 PM - 10:00 PM	5	TRUE
+553	Sushi	Medium	Union Square	9:00 AM - 5:00 PM	5	TRUE
+554	Sushi	Medium	Tribeca	2:00 PM - 10:00 PM	1	FALSE
+555	Thai	Cheap	Wall Street	2:00 PM - 10:00 PM	4	FALSE
+556	Burgers	Cheap	Tribeca	9:00 AM - 5:00 PM	2	FALSE
+557	Chinese	Cheap	Times Square	2:00 PM - 10:00 PM	2	TRUE
+558	Korean	Expensive	Greenwich Village	9:00 AM - 5:00 PM	2	TRUE
+559	Burgers	Medium	NoHo	2:00 PM - 10:00 PM	3	FALSE
+560	Desserts	Expensive	Upper East Side	2:00 PM - 10:00 PM	3	TRUE
+561	Indian	Cheap	Lower East Side	9:00 AM - 5:00 PM	1	FALSE
+562	Thai	Expensive	Midtown	2:00 PM - 10:00 PM	4	TRUE
+563	Thai	Expensive	NoHo	2:00 PM - 10:00 PM	4	TRUE
+564	Chinese	Cheap	Battery Park City	2:00 PM - 10:00 PM	3	TRUE
+565	Indian	Cheap	Financial District	9:00 AM - 5:00 PM	1	FALSE
+566	Burgers	Expensive	Washington Heights	2:00 PM - 10:00 PM	4	TRUE
+567	Pizza	Medium	Washington Heights	2:00 PM - 10:00 PM	1	FALSE
+568	Korean	Cheap	Inwood	9:00 AM - 5:00 PM	4	FALSE
+569	Pizza	Cheap	Battery Park City	9:00 AM - 5:00 PM	3	TRUE
+570	Indian	Expensive	Upper East Side	2:00 PM - 10:00 PM	5	FALSE
+571	Italian	Cheap	Upper East Side	2:00 PM - 10:00 PM	2	FALSE
+572	Burgers	Expensive	Flatiron	2:00 PM - 10:00 PM	2	TRUE
+573	Thai	Cheap	Chinatown	2:00 PM - 10:00 PM	3	TRUE
+574	Indian	Cheap	Herald Square	9:00 AM - 5:00 PM	4	FALSE
+575	Chinese	Medium	West Village	9:00 AM - 5:00 PM	2	TRUE
+576	Sushi	Medium	SoHo	2:00 PM - 10:00 PM	3	FALSE
+577	Thai	Cheap	Battery Park City	9:00 AM - 5:00 PM	1	TRUE
+578	Korean	Medium	Harlem	9:00 AM - 5:00 PM	4	TRUE
+579	Italian	Medium	Harlem	2:00 PM - 10:00 PM	5	FALSE
+580	Chinese	Expensive	Harlem	9:00 AM - 5:00 PM	3	FALSE
+581	Burgers	Expensive	West Village	2:00 PM - 10:00 PM	3	FALSE
+582	Mexican	Cheap	Wall Street	9:00 AM - 5:00 PM	3	FALSE
+583	Mexican	Cheap	Times Square	9:00 AM - 5:00 PM	2	FALSE
+584	Korean	Cheap	Upper West Side	2:00 PM - 10:00 PM	2	FALSE
+585	Pizza	Expensive	Wall Street	2:00 PM - 10:00 PM	4	TRUE
+586	Pizza	Medium	Upper West Side	2:00 PM - 10:00 PM	3	TRUE
+587	Burgers	Expensive	Herald Square	9:00 AM - 5:00 PM	4	TRUE
+588	Chinese	Medium	Harlem	2:00 PM - 10:00 PM	3	FALSE
+589	Pizza	Expensive	Chinatown	9:00 AM - 5:00 PM	4	FALSE
+590	Desserts	Cheap	Times Square	9:00 AM - 5:00 PM	4	FALSE
+591	Sushi	Medium	Washington Heights	2:00 PM - 10:00 PM	1	FALSE
+592	Italian	Expensive	Financial District	2:00 PM - 10:00 PM	1	FALSE
+593	Indian	Medium	Upper East Side	2:00 PM - 10:00 PM	5	FALSE
+594	Mexican	Expensive	SoHo	9:00 AM - 5:00 PM	1	TRUE
+595	Burgers	Medium	Chinatown	9:00 AM - 5:00 PM	1	TRUE
+596	Thai	Cheap	Times Square	2:00 PM - 10:00 PM	4	FALSE
+597	Mexican	Medium	Flatiron	2:00 PM - 10:00 PM	3	TRUE
+598	Thai	Expensive	Inwood	2:00 PM - 10:00 PM	5	FALSE
+599	Pizza	Expensive	Inwood	9:00 AM - 5:00 PM	1	FALSE
+600	Burgers	Expensive	Battery Park City	9:00 AM - 5:00 PM	1	FALSE
+601	Korean	Cheap	Chelsea	9:00 AM - 5:00 PM	5	TRUE
+602	Sushi	Expensive	Battery Park City	2:00 PM - 10:00 PM	5	TRUE
+603	Pizza	Expensive	Lower East Side	2:00 PM - 10:00 PM	2	FALSE
+604	Mexican	Expensive	Hudson Square	9:00 AM - 5:00 PM	1	TRUE
+605	Desserts	Cheap	West Village	9:00 AM - 5:00 PM	1	FALSE
+606	Thai	Expensive	Upper East Side	9:00 AM - 5:00 PM	4	FALSE
+607	Sushi	Medium	Union Square	9:00 AM - 5:00 PM	1	FALSE
+608	Burgers	Expensive	Times Square	2:00 PM - 10:00 PM	5	FALSE
+609	Pizza	Cheap	Gramercy	2:00 PM - 10:00 PM	4	TRUE
+610	Italian	Expensive	East Harlem	9:00 AM - 5:00 PM	3	TRUE
+611	Desserts	Expensive	Wall Street	9:00 AM - 5:00 PM	3	TRUE
+612	Indian	Cheap	West Village	2:00 PM - 10:00 PM	3	FALSE
+613	Italian	Cheap	East Harlem	2:00 PM - 10:00 PM	4	FALSE
+614	Thai	Medium	Herald Square	9:00 AM - 5:00 PM	4	FALSE
+615	Burgers	Cheap	Chelsea	2:00 PM - 10:00 PM	4	TRUE
+616	Burgers	Medium	Inwood	9:00 AM - 5:00 PM	2	TRUE
+617	Chinese	Expensive	West Village	2:00 PM - 10:00 PM	2	FALSE
+618	Pizza	Medium	Inwood	2:00 PM - 10:00 PM	3	TRUE
+619	Sushi	Cheap	Battery Park City	9:00 AM - 5:00 PM	4	FALSE
+620	Burgers	Cheap	Tribeca	9:00 AM - 5:00 PM	2	FALSE
+621	Pizza	Medium	Financial District	9:00 AM - 5:00 PM	5	FALSE
+622	Korean	Medium	Tribeca	9:00 AM - 5:00 PM	1	FALSE
+623	Pizza	Cheap	Wall Street	9:00 AM - 5:00 PM	4	FALSE
+624	Burgers	Medium	Gramercy	9:00 AM - 5:00 PM	5	TRUE
+625	Italian	Expensive	Washington Heights	9:00 AM - 5:00 PM	2	TRUE
+626	Sushi	Medium	Chinatown	9:00 AM - 5:00 PM	4	TRUE
+627	Mexican	Cheap	Financial District	2:00 PM - 10:00 PM	1	FALSE
+628	Italian	Expensive	Union Square	9:00 AM - 5:00 PM	4	TRUE
+629	Thai	Medium	Harlem	2:00 PM - 10:00 PM	3	FALSE
+630	Chinese	Expensive	Harlem	9:00 AM - 5:00 PM	2	FALSE
+631	Burgers	Cheap	NoHo	2:00 PM - 10:00 PM	5	TRUE
+632	Mexican	Medium	NoHo	9:00 AM - 5:00 PM	3	TRUE
+633	Korean	Medium	NoHo	2:00 PM - 10:00 PM	2	TRUE
+634	Pizza	Cheap	West Village	9:00 AM - 5:00 PM	4	TRUE
+635	Burgers	Expensive	Greenwich Village	2:00 PM - 10:00 PM	2	TRUE
+636	Indian	Expensive	Chinatown	2:00 PM - 10:00 PM	1	FALSE
+637	Indian	Medium	East Harlem	9:00 AM - 5:00 PM	5	FALSE
+638	Chinese	Expensive	Herald Square	2:00 PM - 10:00 PM	4	TRUE
+639	Indian	Expensive	Chelsea	9:00 AM - 5:00 PM	3	TRUE
+640	Indian	Cheap	West Village	2:00 PM - 10:00 PM	2	TRUE
+641	Desserts	Medium	Union Square	2:00 PM - 10:00 PM	5	FALSE
+642	Sushi	Medium	East Harlem	2:00 PM - 10:00 PM	1	TRUE
+643	Pizza	Expensive	Greenwich Village	2:00 PM - 10:00 PM	3	TRUE
+644	Pizza	Cheap	Times Square	9:00 AM - 5:00 PM	2	FALSE
+645	Pizza	Cheap	Inwood	2:00 PM - 10:00 PM	3	FALSE
+646	Burgers	Expensive	West Village	2:00 PM - 10:00 PM	3	TRUE
+647	Pizza	Cheap	Tribeca	9:00 AM - 5:00 PM	5	TRUE
+648	Korean	Medium	West Village	2:00 PM - 10:00 PM	5	FALSE
+649	Thai	Cheap	Flatiron	9:00 AM - 5:00 PM	5	TRUE
+650	Sushi	Medium	Washington Heights	2:00 PM - 10:00 PM	1	TRUE
+651	Korean	Cheap	Financial District	2:00 PM - 10:00 PM	3	TRUE
+652	Italian	Expensive	Battery Park City	2:00 PM - 10:00 PM	2	TRUE
+653	Desserts	Medium	Herald Square	9:00 AM - 5:00 PM	4	FALSE
+654	Pizza	Cheap	Battery Park City	9:00 AM - 5:00 PM	2	TRUE
+655	Korean	Cheap	NoHo	9:00 AM - 5:00 PM	5	TRUE
+656	Chinese	Expensive	NoHo	2:00 PM - 10:00 PM	5	FALSE
+657	Pizza	Cheap	Greenwich Village	9:00 AM - 5:00 PM	3	FALSE
+658	Pizza	Expensive	Inwood	2:00 PM - 10:00 PM	3	FALSE
+659	Mexican	Medium	Harlem	9:00 AM - 5:00 PM	1	FALSE
+660	Burgers	Expensive	Midtown	2:00 PM - 10:00 PM	2	FALSE
+661	Mexican	Expensive	Gramercy	9:00 AM - 5:00 PM	5	TRUE
+662	Desserts	Expensive	SoHo	9:00 AM - 5:00 PM	5	FALSE
+663	Sushi	Cheap	NoHo	2:00 PM - 10:00 PM	3	FALSE
+664	Thai	Expensive	Tribeca	9:00 AM - 5:00 PM	3	FALSE
+665	Korean	Medium	SoHo	2:00 PM - 10:00 PM	5	TRUE
+666	Pizza	Cheap	Midtown	2:00 PM - 10:00 PM	5	TRUE
+667	Indian	Medium	Harlem	2:00 PM - 10:00 PM	1	TRUE
+668	Burgers	Medium	Upper West Side	9:00 AM - 5:00 PM	1	FALSE
+669	Burgers	Expensive	Midtown	9:00 AM - 5:00 PM	2	FALSE
+670	Mexican	Medium	SoHo	2:00 PM - 10:00 PM	1	TRUE
+671	Korean	Expensive	Hudson Square	2:00 PM - 10:00 PM	2	FALSE
+672	Chinese	Cheap	Upper West Side	2:00 PM - 10:00 PM	4	FALSE
+673	Indian	Medium	Greenwich Village	2:00 PM - 10:00 PM	3	TRUE
+674	Indian	Cheap	Flatiron	9:00 AM - 5:00 PM	4	FALSE
+675	Thai	Cheap	Financial District	9:00 AM - 5:00 PM	3	FALSE
+676	Indian	Medium	Times Square	9:00 AM - 5:00 PM	5	TRUE
+677	Burgers	Cheap	Tribeca	2:00 PM - 10:00 PM	4	TRUE
+678	Pizza	Expensive	Washington Heights	2:00 PM - 10:00 PM	1	FALSE
+679	Indian	Cheap	Battery Park City	9:00 AM - 5:00 PM	2	TRUE
+680	Indian	Cheap	Upper East Side	9:00 AM - 5:00 PM	5	FALSE
+681	Thai	Medium	Inwood	9:00 AM - 5:00 PM	1	FALSE
+682	Chinese	Cheap	Washington Heights	9:00 AM - 5:00 PM	3	FALSE
+683	Thai	Expensive	Gramercy	2:00 PM - 10:00 PM	5	TRUE
+684	Chinese	Medium	Battery Park City	9:00 AM - 5:00 PM	5	FALSE
+685	Thai	Cheap	Inwood	9:00 AM - 5:00 PM	3	FALSE
+686	Korean	Medium	Greenwich Village	9:00 AM - 5:00 PM	4	TRUE
+687	Indian	Medium	Harlem	9:00 AM - 5:00 PM	3	FALSE
+688	Burgers	Cheap	Harlem	9:00 AM - 5:00 PM	3	TRUE
+689	Sushi	Cheap	East Harlem	2:00 PM - 10:00 PM	3	TRUE
+690	Chinese	Cheap	West Village	2:00 PM - 10:00 PM	2	TRUE
+691	Korean	Expensive	West Village	2:00 PM - 10:00 PM	5	FALSE
+692	Italian	Medium	Herald Square	2:00 PM - 10:00 PM	4	TRUE
+693	Thai	Expensive	Hudson Square	2:00 PM - 10:00 PM	2	TRUE
+694	Thai	Medium	Times Square	9:00 AM - 5:00 PM	3	TRUE
+695	Indian	Cheap	Chinatown	9:00 AM - 5:00 PM	1	FALSE
+696	Pizza	Medium	Gramercy	9:00 AM - 5:00 PM	5	TRUE
+697	Desserts	Cheap	Gramercy	9:00 AM - 5:00 PM	2	FALSE
+698	Indian	Medium	Battery Park City	2:00 PM - 10:00 PM	3	FALSE
+699	Sushi	Cheap	Battery Park City	2:00 PM - 10:00 PM	4	FALSE
+700	Sushi	Cheap	Greenwich Village	2:00 PM - 10:00 PM	4	FALSE
+701	Desserts	Medium	Harlem	9:00 AM - 5:00 PM	5	FALSE
+702	Chinese	Cheap	East Harlem	2:00 PM - 10:00 PM	1	FALSE
+703	Chinese	Medium	Greenwich Village	2:00 PM - 10:00 PM	4	FALSE
+704	Desserts	Medium	West Village	9:00 AM - 5:00 PM	3	TRUE
+705	Pizza	Expensive	Financial District	9:00 AM - 5:00 PM	4	FALSE
+706	Chinese	Medium	Chinatown	9:00 AM - 5:00 PM	1	TRUE
+707	Mexican	Medium	Lower East Side	9:00 AM - 5:00 PM	4	TRUE
+708	Korean	Medium	Chelsea	2:00 PM - 10:00 PM	3	FALSE
+709	Sushi	Expensive	Midtown	2:00 PM - 10:00 PM	2	FALSE
+710	Korean	Cheap	Wall Street	9:00 AM - 5:00 PM	4	FALSE
+711	Mexican	Medium	Financial District	9:00 AM - 5:00 PM	5	FALSE
+712	Italian	Cheap	Financial District	2:00 PM - 10:00 PM	2	TRUE
+713	Thai	Expensive	Tribeca	9:00 AM - 5:00 PM	5	FALSE
+714	Italian	Cheap	Gramercy	2:00 PM - 10:00 PM	1	TRUE
+715	Italian	Medium	Midtown	2:00 PM - 10:00 PM	2	FALSE
+716	Thai	Medium	West Village	2:00 PM - 10:00 PM	4	FALSE
+717	Mexican	Medium	Flatiron	9:00 AM - 5:00 PM	3	TRUE
+718	Thai	Medium	Financial District	9:00 AM - 5:00 PM	5	FALSE
+719	Mexican	Cheap	Greenwich Village	9:00 AM - 5:00 PM	5	FALSE
+720	Sushi	Cheap	Financial District	2:00 PM - 10:00 PM	3	TRUE
+721	Sushi	Expensive	Upper West Side	9:00 AM - 5:00 PM	4	FALSE
+722	Italian	Medium	SoHo	9:00 AM - 5:00 PM	4	TRUE
+723	Desserts	Medium	Hudson Square	2:00 PM - 10:00 PM	2	TRUE
+724	Thai	Medium	Wall Street	9:00 AM - 5:00 PM	5	TRUE
+725	Burgers	Cheap	Chelsea	2:00 PM - 10:00 PM	4	TRUE
+726	Pizza	Expensive	East Harlem	2:00 PM - 10:00 PM	3	FALSE
+727	Burgers	Expensive	Financial District	2:00 PM - 10:00 PM	3	TRUE
+728	Italian	Expensive	East Harlem	2:00 PM - 10:00 PM	3	TRUE
+729	Pizza	Medium	Chelsea	9:00 AM - 5:00 PM	1	TRUE
+730	Desserts	Expensive	Gramercy	2:00 PM - 10:00 PM	1	TRUE
+731	Italian	Expensive	Chinatown	9:00 AM - 5:00 PM	2	FALSE
+732	Burgers	Cheap	Chelsea	9:00 AM - 5:00 PM	2	FALSE
+733	Chinese	Expensive	Greenwich Village	2:00 PM - 10:00 PM	5	TRUE
+734	Pizza	Expensive	Upper West Side	2:00 PM - 10:00 PM	1	TRUE
+735	Sushi	Expensive	Inwood	2:00 PM - 10:00 PM	3	TRUE
+736	Indian	Medium	NoHo	2:00 PM - 10:00 PM	4	FALSE
+737	Indian	Medium	Upper East Side	9:00 AM - 5:00 PM	3	FALSE
+738	Pizza	Medium	Lower East Side	2:00 PM - 10:00 PM	2	TRUE
+739	Indian	Cheap	Times Square	9:00 AM - 5:00 PM	3	FALSE
+740	Desserts	Cheap	Inwood	2:00 PM - 10:00 PM	3	TRUE
+741	Sushi	Cheap	Midtown	2:00 PM - 10:00 PM	1	FALSE
+742	Sushi	Cheap	Harlem	9:00 AM - 5:00 PM	3	FALSE
+743	Desserts	Cheap	Chelsea	9:00 AM - 5:00 PM	4	FALSE
+744	Sushi	Expensive	Times Square	9:00 AM - 5:00 PM	2	FALSE
+745	Chinese	Expensive	Upper East Side	9:00 AM - 5:00 PM	3	FALSE
+746	Sushi	Cheap	Gramercy	9:00 AM - 5:00 PM	1	TRUE
+747	Sushi	Medium	Upper East Side	2:00 PM - 10:00 PM	2	TRUE
+748	Pizza	Cheap	Wall Street	9:00 AM - 5:00 PM	5	TRUE
+749	Indian	Cheap	East Harlem	2:00 PM - 10:00 PM	2	TRUE
+750	Burgers	Medium	Chinatown	9:00 AM - 5:00 PM	5	TRUE
+751	Chinese	Expensive	Inwood	9:00 AM - 5:00 PM	4	FALSE
+752	Thai	Medium	SoHo	2:00 PM - 10:00 PM	1	FALSE
+753	Sushi	Medium	Chelsea	2:00 PM - 10:00 PM	4	TRUE
+754	Burgers	Medium	Upper East Side	2:00 PM - 10:00 PM	3	TRUE
+755	Chinese	Medium	East Harlem	2:00 PM - 10:00 PM	4	TRUE
+756	Pizza	Medium	Midtown	9:00 AM - 5:00 PM	3	FALSE
+757	Indian	Medium	Harlem	9:00 AM - 5:00 PM	4	FALSE
+758	Thai	Expensive	Tribeca	2:00 PM - 10:00 PM	5	TRUE
+759	Italian	Cheap	Inwood	2:00 PM - 10:00 PM	4	FALSE
+760	Sushi	Cheap	Times Square	9:00 AM - 5:00 PM	3	FALSE
+761	Korean	Expensive	Wall Street	2:00 PM - 10:00 PM	3	FALSE
+762	Italian	Medium	West Village	9:00 AM - 5:00 PM	2	TRUE
+763	Sushi	Cheap	Upper East Side	2:00 PM - 10:00 PM	5	FALSE
+764	Sushi	Cheap	Gramercy	9:00 AM - 5:00 PM	4	TRUE
+765	Indian	Cheap	Financial District	2:00 PM - 10:00 PM	5	TRUE
+766	Desserts	Medium	Upper East Side	2:00 PM - 10:00 PM	5	FALSE
+767	Desserts	Cheap	Tribeca	2:00 PM - 10:00 PM	1	FALSE
+768	Sushi	Cheap	Greenwich Village	2:00 PM - 10:00 PM	4	TRUE
+769	Thai	Medium	SoHo	9:00 AM - 5:00 PM	5	FALSE
+770	Korean	Medium	NoHo	9:00 AM - 5:00 PM	2	FALSE
+771	Desserts	Expensive	Upper West Side	9:00 AM - 5:00 PM	3	FALSE
+772	Mexican	Medium	Washington Heights	2:00 PM - 10:00 PM	4	FALSE
+773	Sushi	Expensive	Hudson Square	9:00 AM - 5:00 PM	1	TRUE
+774	Mexican	Expensive	Lower East Side	2:00 PM - 10:00 PM	5	FALSE
+775	Korean	Medium	Battery Park City	2:00 PM - 10:00 PM	4	FALSE
+776	Desserts	Medium	Harlem	2:00 PM - 10:00 PM	4	TRUE
+777	Sushi	Expensive	Herald Square	9:00 AM - 5:00 PM	1	FALSE
+778	Desserts	Cheap	Hudson Square	2:00 PM - 10:00 PM	4	TRUE
+779	Pizza	Expensive	Chelsea	9:00 AM - 5:00 PM	4	TRUE
+780	Mexican	Medium	Greenwich Village	2:00 PM - 10:00 PM	5	TRUE
+781	Sushi	Expensive	Upper East Side	9:00 AM - 5:00 PM	4	FALSE
+782	Chinese	Expensive	Herald Square	9:00 AM - 5:00 PM	3	FALSE
+783	Thai	Expensive	Hudson Square	2:00 PM - 10:00 PM	2	FALSE
+784	Thai	Expensive	Wall Street	9:00 AM - 5:00 PM	2	TRUE
+785	Mexican	Expensive	Gramercy	2:00 PM - 10:00 PM	1	FALSE
+786	Thai	Expensive	Union Square	2:00 PM - 10:00 PM	5	FALSE
+787	Indian	Cheap	Wall Street	9:00 AM - 5:00 PM	5	FALSE
+788	Sushi	Cheap	Herald Square	2:00 PM - 10:00 PM	3	FALSE
+789	Desserts	Expensive	Chinatown	9:00 AM - 5:00 PM	1	FALSE
+790	Desserts	Expensive	West Village	2:00 PM - 10:00 PM	5	FALSE
+791	Mexican	Medium	SoHo	2:00 PM - 10:00 PM	1	TRUE
+792	Mexican	Cheap	Midtown	2:00 PM - 10:00 PM	4	FALSE
+793	Sushi	Medium	Upper West Side	2:00 PM - 10:00 PM	3	FALSE
+794	Sushi	Expensive	Chelsea	2:00 PM - 10:00 PM	2	TRUE
+795	Desserts	Expensive	Hudson Square	2:00 PM - 10:00 PM	5	FALSE
+796	Pizza	Cheap	East Harlem	2:00 PM - 10:00 PM	1	TRUE
+797	Korean	Medium	East Harlem	9:00 AM - 5:00 PM	4	FALSE
+798	Thai	Medium	Financial District	9:00 AM - 5:00 PM	2	FALSE
+799	Korean	Medium	SoHo	9:00 AM - 5:00 PM	3	FALSE
+800	Burgers	Medium	Gramercy	2:00 PM - 10:00 PM	5	FALSE
+801	Pizza	Medium	Washington Heights	2:00 PM - 10:00 PM	2	FALSE
+802	Indian	Medium	East Harlem	2:00 PM - 10:00 PM	5	FALSE
+803	Italian	Medium	SoHo	9:00 AM - 5:00 PM	5	TRUE
+804	Mexican	Medium	Hudson Square	2:00 PM - 10:00 PM	2	TRUE
+805	Thai	Medium	Financial District	2:00 PM - 10:00 PM	3	FALSE
+806	Thai	Medium	East Harlem	2:00 PM - 10:00 PM	1	TRUE
+807	Burgers	Expensive	Midtown	2:00 PM - 10:00 PM	2	FALSE
+808	Korean	Expensive	Financial District	2:00 PM - 10:00 PM	2	FALSE
+809	Pizza	Medium	Upper West Side	2:00 PM - 10:00 PM	4	TRUE
+810	Korean	Cheap	Inwood	9:00 AM - 5:00 PM	3	TRUE
+811	Thai	Cheap	Union Square	2:00 PM - 10:00 PM	2	TRUE
+812	Indian	Expensive	Inwood	2:00 PM - 10:00 PM	2	FALSE
+813	Thai	Medium	Midtown	9:00 AM - 5:00 PM	1	FALSE
+814	Chinese	Cheap	NoHo	9:00 AM - 5:00 PM	5	TRUE
+815	Chinese	Cheap	Washington Heights	2:00 PM - 10:00 PM	4	TRUE
+816	Chinese	Medium	Hudson Square	2:00 PM - 10:00 PM	4	TRUE
+817	Pizza	Cheap	Upper West Side	9:00 AM - 5:00 PM	5	FALSE
+818	Thai	Cheap	Financial District	9:00 AM - 5:00 PM	3	TRUE
+819	Mexican	Cheap	Times Square	9:00 AM - 5:00 PM	5	TRUE
+820	Burgers	Medium	Upper East Side	2:00 PM - 10:00 PM	3	FALSE
+821	Sushi	Cheap	Union Square	2:00 PM - 10:00 PM	4	FALSE
+822	Korean	Expensive	Washington Heights	2:00 PM - 10:00 PM	2	FALSE
+823	Sushi	Medium	Times Square	2:00 PM - 10:00 PM	4	TRUE
+824	Pizza	Expensive	West Village	9:00 AM - 5:00 PM	4	TRUE
+825	Mexican	Medium	Midtown	9:00 AM - 5:00 PM	3	TRUE
+826	Burgers	Medium	East Harlem	9:00 AM - 5:00 PM	2	FALSE
+827	Pizza	Cheap	Harlem	2:00 PM - 10:00 PM	1	TRUE
+828	Mexican	Medium	East Harlem	9:00 AM - 5:00 PM	5	TRUE
+829	Italian	Cheap	Times Square	9:00 AM - 5:00 PM	5	FALSE
+830	Pizza	Medium	Times Square	2:00 PM - 10:00 PM	5	FALSE
+831	Mexican	Medium	Greenwich Village	2:00 PM - 10:00 PM	3	FALSE
+832	Mexican	Expensive	Tribeca	2:00 PM - 10:00 PM	4	TRUE
+833	Desserts	Cheap	Financial District	9:00 AM - 5:00 PM	1	TRUE
+834	Pizza	Cheap	Financial District	9:00 AM - 5:00 PM	5	FALSE
+835	Sushi	Medium	Herald Square	2:00 PM - 10:00 PM	4	TRUE
+836	Burgers	Expensive	Upper West Side	9:00 AM - 5:00 PM	5	TRUE
+837	Italian	Expensive	East Harlem	9:00 AM - 5:00 PM	5	FALSE
+838	Burgers	Medium	Tribeca	2:00 PM - 10:00 PM	2	TRUE
+839	Korean	Medium	Chelsea	9:00 AM - 5:00 PM	4	FALSE
+840	Thai	Medium	Washington Heights	2:00 PM - 10:00 PM	2	FALSE
+841	Sushi	Medium	West Village	2:00 PM - 10:00 PM	2	FALSE
+842	Mexican	Medium	Lower East Side	2:00 PM - 10:00 PM	1	TRUE
+843	Italian	Medium	Union Square	9:00 AM - 5:00 PM	2	TRUE
+844	Desserts	Medium	East Harlem	2:00 PM - 10:00 PM	2	TRUE
+845	Korean	Cheap	Union Square	9:00 AM - 5:00 PM	1	FALSE
+846	Desserts	Medium	Herald Square	9:00 AM - 5:00 PM	5	FALSE
+847	Pizza	Medium	NoHo	9:00 AM - 5:00 PM	4	TRUE
+848	Thai	Expensive	Upper East Side	9:00 AM - 5:00 PM	3	TRUE
+849	Desserts	Cheap	Tribeca	2:00 PM - 10:00 PM	4	FALSE
+850	Italian	Expensive	Washington Heights	9:00 AM - 5:00 PM	5	TRUE
+851	Pizza	Cheap	Washington Heights	2:00 PM - 10:00 PM	3	TRUE
+852	Pizza	Medium	Union Square	9:00 AM - 5:00 PM	4	FALSE
+853	Sushi	Cheap	West Village	9:00 AM - 5:00 PM	4	FALSE
+854	Chinese	Expensive	Tribeca	2:00 PM - 10:00 PM	4	TRUE
+855	Chinese	Expensive	Financial District	2:00 PM - 10:00 PM	5	TRUE
+856	Desserts	Cheap	Wall Street	9:00 AM - 5:00 PM	2	FALSE
+857	Chinese	Expensive	Gramercy	9:00 AM - 5:00 PM	5	TRUE
+858	Mexican	Expensive	Gramercy	2:00 PM - 10:00 PM	4	FALSE
+859	Burgers	Cheap	Battery Park City	2:00 PM - 10:00 PM	3	TRUE
+860	Thai	Expensive	Tribeca	2:00 PM - 10:00 PM	3	FALSE
+861	Mexican	Medium	Times Square	2:00 PM - 10:00 PM	2	TRUE
+862	Indian	Medium	Lower East Side	9:00 AM - 5:00 PM	1	FALSE
+863	Sushi	Expensive	Greenwich Village	2:00 PM - 10:00 PM	3	TRUE
+864	Mexican	Cheap	Tribeca	9:00 AM - 5:00 PM	5	TRUE
+865	Italian	Medium	Union Square	9:00 AM - 5:00 PM	4	TRUE
+866	Korean	Medium	Upper East Side	9:00 AM - 5:00 PM	1	TRUE
+867	Pizza	Expensive	Hudson Square	2:00 PM - 10:00 PM	2	FALSE
+868	Desserts	Expensive	Chinatown	9:00 AM - 5:00 PM	5	FALSE
+869	Burgers	Medium	West Village	9:00 AM - 5:00 PM	1	TRUE
+870	Burgers	Expensive	Chinatown	2:00 PM - 10:00 PM	5	FALSE
+871	Desserts	Expensive	Washington Heights	9:00 AM - 5:00 PM	5	FALSE
+872	Burgers	Cheap	Upper West Side	2:00 PM - 10:00 PM	4	FALSE
+873	Thai	Expensive	Hudson Square	2:00 PM - 10:00 PM	1	FALSE
+874	Mexican	Expensive	Union Square	9:00 AM - 5:00 PM	1	TRUE
+875	Pizza	Expensive	Upper East Side	9:00 AM - 5:00 PM	1	FALSE
+876	Chinese	Cheap	Midtown	9:00 AM - 5:00 PM	1	FALSE
+877	Chinese	Cheap	Midtown	2:00 PM - 10:00 PM	5	FALSE
+878	Burgers	Medium	Inwood	9:00 AM - 5:00 PM	2	FALSE
+879	Chinese	Medium	West Village	2:00 PM - 10:00 PM	1	FALSE
+880	Desserts	Medium	Upper West Side	9:00 AM - 5:00 PM	3	FALSE
+881	Thai	Cheap	Herald Square	2:00 PM - 10:00 PM	5	FALSE
+882	Korean	Cheap	Tribeca	9:00 AM - 5:00 PM	5	FALSE
+883	Mexican	Expensive	Financial District	9:00 AM - 5:00 PM	5	TRUE
+884	Korean	Medium	Harlem	9:00 AM - 5:00 PM	2	TRUE
+885	Thai	Medium	Battery Park City	2:00 PM - 10:00 PM	1	FALSE
+886	Indian	Medium	Flatiron	2:00 PM - 10:00 PM	4	TRUE
+887	Desserts	Medium	Wall Street	9:00 AM - 5:00 PM	4	TRUE
+888	Italian	Cheap	West Village	2:00 PM - 10:00 PM	2	FALSE
+889	Burgers	Cheap	Tribeca	2:00 PM - 10:00 PM	4	TRUE
+890	Burgers	Cheap	Inwood	9:00 AM - 5:00 PM	5	FALSE
+891	Desserts	Expensive	Harlem	9:00 AM - 5:00 PM	4	FALSE
+892	Indian	Medium	SoHo	2:00 PM - 10:00 PM	2	FALSE
+893	Korean	Expensive	Inwood	9:00 AM - 5:00 PM	1	FALSE
+894	Sushi	Expensive	West Village	2:00 PM - 10:00 PM	1	TRUE
+895	Mexican	Expensive	Upper East Side	2:00 PM - 10:00 PM	2	FALSE
+896	Korean	Expensive	Tribeca	2:00 PM - 10:00 PM	4	FALSE
+897	Sushi	Expensive	Chinatown	9:00 AM - 5:00 PM	5	TRUE
+898	Desserts	Medium	Wall Street	9:00 AM - 5:00 PM	4	FALSE
+899	Pizza	Expensive	Chinatown	2:00 PM - 10:00 PM	2	TRUE
+900	Desserts	Cheap	Hudson Square	2:00 PM - 10:00 PM	3	TRUE
+901	Sushi	Cheap	Upper East Side	2:00 PM - 10:00 PM	2	FALSE
+902	Pizza	Cheap	Greenwich Village	2:00 PM - 10:00 PM	2	TRUE
+903	Desserts	Expensive	Lower East Side	2:00 PM - 10:00 PM	1	TRUE
+904	Sushi	Medium	East Harlem	2:00 PM - 10:00 PM	4	FALSE
+905	Korean	Cheap	Flatiron	9:00 AM - 5:00 PM	3	TRUE
+906	Sushi	Cheap	Battery Park City	2:00 PM - 10:00 PM	3	FALSE
+907	Korean	Medium	Hudson Square	9:00 AM - 5:00 PM	2	FALSE
+908	Mexican	Expensive	Union Square	9:00 AM - 5:00 PM	1	TRUE
+909	Pizza	Expensive	Chinatown	9:00 AM - 5:00 PM	3	FALSE
+910	Chinese	Cheap	Hudson Square	9:00 AM - 5:00 PM	4	TRUE
+911	Italian	Medium	Upper West Side	2:00 PM - 10:00 PM	4	TRUE
+912	Thai	Cheap	Washington Heights	9:00 AM - 5:00 PM	3	FALSE
+913	Desserts	Expensive	East Harlem	9:00 AM - 5:00 PM	1	FALSE
+914	Korean	Cheap	West Village	2:00 PM - 10:00 PM	3	TRUE
+915	Sushi	Medium	Upper West Side	9:00 AM - 5:00 PM	5	FALSE
+916	Korean	Medium	Upper East Side	9:00 AM - 5:00 PM	3	TRUE
+917	Korean	Medium	Union Square	2:00 PM - 10:00 PM	1	TRUE
+918	Desserts	Expensive	SoHo	2:00 PM - 10:00 PM	2	TRUE
+919	Indian	Cheap	Harlem	2:00 PM - 10:00 PM	5	TRUE
+920	Mexican	Expensive	West Village	2:00 PM - 10:00 PM	5	TRUE
+921	Indian	Cheap	Upper East Side	2:00 PM - 10:00 PM	3	FALSE
+922	Indian	Medium	Financial District	9:00 AM - 5:00 PM	5	FALSE
+923	Chinese	Expensive	Herald Square	2:00 PM - 10:00 PM	5	FALSE
+924	Pizza	Expensive	West Village	2:00 PM - 10:00 PM	3	TRUE
+925	Mexican	Cheap	Upper East Side	2:00 PM - 10:00 PM	3	FALSE
+926	Mexican	Medium	Harlem	2:00 PM - 10:00 PM	3	FALSE
+927	Italian	Expensive	Hudson Square	9:00 AM - 5:00 PM	4	TRUE
+928	Burgers	Expensive	Tribeca	2:00 PM - 10:00 PM	1	FALSE
+929	Pizza	Expensive	NoHo	9:00 AM - 5:00 PM	5	TRUE
+930	Chinese	Cheap	Tribeca	2:00 PM - 10:00 PM	1	FALSE
+931	Burgers	Medium	Times Square	9:00 AM - 5:00 PM	1	FALSE
+932	Italian	Expensive	Gramercy	2:00 PM - 10:00 PM	1	TRUE
+933	Pizza	Medium	NoHo	9:00 AM - 5:00 PM	2	FALSE
+934	Korean	Cheap	East Harlem	9:00 AM - 5:00 PM	2	TRUE
+935	Pizza	Expensive	Times Square	2:00 PM - 10:00 PM	1	TRUE
+936	Pizza	Expensive	Times Square	2:00 PM - 10:00 PM	2	TRUE
+937	Sushi	Cheap	Union Square	9:00 AM - 5:00 PM	3	FALSE
+938	Burgers	Cheap	Washington Heights	2:00 PM - 10:00 PM	5	TRUE
+939	Korean	Cheap	Lower East Side	2:00 PM - 10:00 PM	4	FALSE
+940	Chinese	Cheap	East Harlem	2:00 PM - 10:00 PM	3	TRUE
+941	Desserts	Cheap	Times Square	2:00 PM - 10:00 PM	3	TRUE
+942	Burgers	Cheap	Flatiron	9:00 AM - 5:00 PM	5	FALSE
+943	Indian	Cheap	Gramercy	2:00 PM - 10:00 PM	2	TRUE
+944	Sushi	Expensive	Times Square	2:00 PM - 10:00 PM	1	FALSE
+945	Chinese	Cheap	Gramercy	2:00 PM - 10:00 PM	1	FALSE
+946	Italian	Medium	Harlem	2:00 PM - 10:00 PM	4	FALSE
+947	Sushi	Cheap	Upper East Side	9:00 AM - 5:00 PM	3	TRUE
+948	Italian	Expensive	Greenwich Village	9:00 AM - 5:00 PM	4	FALSE
+949	Pizza	Cheap	Chinatown	2:00 PM - 10:00 PM	3	FALSE
+950	Thai	Expensive	Battery Park City	9:00 AM - 5:00 PM	1	FALSE
+951	Mexican	Cheap	Washington Heights	2:00 PM - 10:00 PM	3	FALSE
+952	Chinese	Expensive	SoHo	2:00 PM - 10:00 PM	1	FALSE
+953	Italian	Expensive	Upper West Side	9:00 AM - 5:00 PM	3	TRUE
+954	Indian	Expensive	Hudson Square	9:00 AM - 5:00 PM	1	FALSE
+955	Pizza	Medium	Tribeca	2:00 PM - 10:00 PM	3	TRUE
+956	Sushi	Expensive	West Village	2:00 PM - 10:00 PM	4	TRUE
+957	Burgers	Medium	East Harlem	2:00 PM - 10:00 PM	2	FALSE
+958	Mexican	Expensive	Herald Square	9:00 AM - 5:00 PM	3	FALSE
+959	Mexican	Cheap	West Village	9:00 AM - 5:00 PM	5	TRUE
+960	Burgers	Cheap	Herald Square	2:00 PM - 10:00 PM	3	FALSE
+961	Burgers	Cheap	Upper West Side	2:00 PM - 10:00 PM	1	TRUE
+962	Desserts	Expensive	NoHo	2:00 PM - 10:00 PM	1	TRUE
+963	Mexican	Expensive	Union Square	2:00 PM - 10:00 PM	5	FALSE
+964	Burgers	Expensive	Gramercy	2:00 PM - 10:00 PM	2	FALSE
+965	Mexican	Medium	Lower East Side	2:00 PM - 10:00 PM	2	TRUE
+966	Indian	Medium	Upper East Side	2:00 PM - 10:00 PM	5	FALSE
+967	Pizza	Medium	Herald Square	2:00 PM - 10:00 PM	5	TRUE
+968	Burgers	Expensive	Harlem	9:00 AM - 5:00 PM	5	TRUE
+969	Desserts	Medium	Tribeca	2:00 PM - 10:00 PM	3	FALSE
+970	Thai	Medium	East Harlem	9:00 AM - 5:00 PM	4	FALSE
+971	Korean	Expensive	West Village	9:00 AM - 5:00 PM	5	FALSE
+972	Italian	Cheap	Chinatown	9:00 AM - 5:00 PM	4	FALSE
+973	Indian	Cheap	Gramercy	2:00 PM - 10:00 PM	5	FALSE
+974	Desserts	Expensive	West Village	9:00 AM - 5:00 PM	5	FALSE
+975	Indian	Expensive	Flatiron	2:00 PM - 10:00 PM	4	TRUE
+976	Chinese	Cheap	Chelsea	2:00 PM - 10:00 PM	3	FALSE
+977	Indian	Cheap	Union Square	2:00 PM - 10:00 PM	2	TRUE
+978	Burgers	Cheap	Union Square	2:00 PM - 10:00 PM	5	FALSE
+979	Mexican	Expensive	West Village	9:00 AM - 5:00 PM	4	TRUE
+980	Chinese	Medium	Greenwich Village	9:00 AM - 5:00 PM	3	TRUE
+981	Burgers	Cheap	NoHo	9:00 AM - 5:00 PM	1	FALSE
+982	Pizza	Medium	Tribeca	2:00 PM - 10:00 PM	2	TRUE
+983	Italian	Expensive	SoHo	2:00 PM - 10:00 PM	5	TRUE
+984	Burgers	Medium	SoHo	9:00 AM - 5:00 PM	3	FALSE
+985	Chinese	Cheap	Wall Street	2:00 PM - 10:00 PM	1	TRUE
+986	Thai	Cheap	Greenwich Village	2:00 PM - 10:00 PM	5	FALSE
+987	Korean	Cheap	Times Square	9:00 AM - 5:00 PM	1	FALSE
+988	Indian	Cheap	Chinatown	2:00 PM - 10:00 PM	4	FALSE
+989	Indian	Cheap	Gramercy	9:00 AM - 5:00 PM	5	FALSE
+990	Thai	Cheap	Inwood	9:00 AM - 5:00 PM	3	TRUE
+991	Chinese	Cheap	Flatiron	9:00 AM - 5:00 PM	1	TRUE
+992	Indian	Cheap	Gramercy	2:00 PM - 10:00 PM	3	TRUE
+993	Mexican	Medium	Flatiron	9:00 AM - 5:00 PM	1	TRUE
+994	Thai	Medium	NoHo	9:00 AM - 5:00 PM	3	FALSE
+995	Mexican	Expensive	Lower East Side	9:00 AM - 5:00 PM	3	FALSE
+996	Korean	Cheap	East Harlem	9:00 AM - 5:00 PM	4	FALSE
+997	Burgers	Expensive	Herald Square	2:00 PM - 10:00 PM	2	TRUE
+998	Desserts	Medium	Greenwich Village	9:00 AM - 5:00 PM	5	TRUE
+999	Burgers	Cheap	NoHo	2:00 PM - 10:00 PM	5	FALSE
+1000	Sushi	Medium	Upper East Side	2:00 PM - 10:00 PM	5	TRUE
